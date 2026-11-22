@@ -1,0 +1,14 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pao.pao",
+      "sha256_cert_fingerprints": [
+        "73:87:66:45:4C:23:9C:C6:71:7C:E1:F3:81:B8:E9:04:21:6C:DA:95:4D:9F:0B:B6:B6:A4:01:DB:02:7C:2F:9F",
+        "38:09:67:FF:E1:2D:DC:BC:B7:1E:B6:6E:E5:7D:7C:91:A9:8C:37:10:BD:C9:33:F6:49:83:80:8D:EC:A7:8B:5D",
+        "47:31:4A:75:3D:AF:CF:AE:E6:D7:F5:FF:51:30:2A:08:DE:1D:15:10:D3:D0:FA:4B:F6:B1:FF:07:52:96:2B:13"
+      ]
+    }
+  }
+]
